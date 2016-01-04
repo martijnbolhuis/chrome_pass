@@ -1,0 +1,9 @@
+{
+  "name": "com.google.chrome.linux.pass",
+  "description": "Linux Pass Host",
+  "path": "/home/martijn/code/chrome_plugins/pass/host/pass.rb",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+  ]
+}
